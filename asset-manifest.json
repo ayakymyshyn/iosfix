@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iosfix/static/css/main.7dcf9456.chunk.css",
+    "main.js": "/iosfix/static/js/main.e9e7fe4f.chunk.js",
+    "main.js.map": "/iosfix/static/js/main.e9e7fe4f.chunk.js.map",
+    "runtime-main.js": "/iosfix/static/js/runtime-main.8c38d4a7.js",
+    "runtime-main.js.map": "/iosfix/static/js/runtime-main.8c38d4a7.js.map",
+    "static/js/2.43d7e4c5.chunk.js": "/iosfix/static/js/2.43d7e4c5.chunk.js",
+    "static/js/2.43d7e4c5.chunk.js.map": "/iosfix/static/js/2.43d7e4c5.chunk.js.map",
+    "index.html": "/iosfix/index.html",
+    "precache-manifest.539eed8d3ce2d63ae94e5744b4b1058d.js": "/iosfix/precache-manifest.539eed8d3ce2d63ae94e5744b4b1058d.js",
+    "service-worker.js": "/iosfix/service-worker.js",
+    "static/css/main.7dcf9456.chunk.css.map": "/iosfix/static/css/main.7dcf9456.chunk.css.map",
+    "static/js/2.43d7e4c5.chunk.js.LICENSE.txt": "/iosfix/static/js/2.43d7e4c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c38d4a7.js",
+    "static/js/2.43d7e4c5.chunk.js",
+    "static/css/main.7dcf9456.chunk.css",
+    "static/js/main.e9e7fe4f.chunk.js"
+  ]
+}
